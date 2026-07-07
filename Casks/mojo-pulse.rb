@@ -5,7 +5,7 @@ cask "mojo-pulse" do
   url "https://github.com/NativeMojo/mojo-pulse/releases/download/v#{version}/MojoPulse-#{version}.dmg"
   name "Mojo Pulse"
   desc "Menu-bar system monitor and security-posture watcher"
-  homepage "https://github.com/NativeMojo/mojo-pulse"
+  homepage "https://mojopulse.io/"
 
   livecheck do
     url :url
