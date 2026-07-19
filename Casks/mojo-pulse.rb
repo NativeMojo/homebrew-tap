@@ -1,6 +1,6 @@
 cask "mojo-pulse" do
-  version "1.19.0"
-  sha256 "c22e25dccf48bcc77101ec9426b59750bf09ab39fcd833f8eb4c70a8806b41ce"
+  version "1.20.0"
+  sha256 "8a272d9dd3ba2b86a9ce4f89111a312861e922e6e5f89a091fca147de941265d"
 
   url "https://github.com/NativeMojo/mojo-pulse/releases/download/v#{version}/MojoPulse-#{version}.dmg"
   name "Mojo Pulse"
